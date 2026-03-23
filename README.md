@@ -2,7 +2,7 @@
 Code for the project: Natural constraints explain working memory capacity limitations in sensory-cognitive models
 
 The paper is now on bioRxiv:
-Xie, Y.*, Duan, Y.*, Cheng, A., Jiang, P., Cueva, C.J. and Yang, G.R., 2023. Natural constraints explain working memory capacity limitations in sensory-cognitive models. bioRxiv, pp.2023-03.
+Xie, Y.\*, Duan, Y.\*, Cheng, A., Jiang, P., Cueva, C.J. and Yang, G.R., 2023. Natural constraints explain working memory capacity limitations in sensory-cognitive models. bioRxiv, pp.2023-03.
 
 ### general pipeline
 In general our pipeline consist of three part. 
